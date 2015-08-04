@@ -6,7 +6,7 @@
 
 		while ( have_posts() ) : the_post();
 
-			get_template_part('./page-templates/content');
+			get_template_part('./page-templates/content','page');
 
 		endwhile;
 
