@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Responsive Clean Minimal Flat One Column 1.0\n"
-"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/megane9988\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/rcmfoc\n"
 "POT-Creation-Date: 2015-08-04 04:54:34+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -73,9 +73,9 @@ msgstr ""
 msgid "Search Results for: %s"
 msgstr ""
 
-#. #-#-#-#-#  megane9988.pot (Responsive Clean Minimal Flat One Column 1.0)  #-#-#-#-#
+#. #-#-#-#-#  rcmfoc.pot (Responsive Clean Minimal Flat One Column 1.0)  #-#-#-#-#
 #. Theme Name of the plugin/theme
-#. #-#-#-#-#  megane9988.pot (Responsive Clean Minimal Flat One Column 1.0)  #-#-#-#-#
+#. #-#-#-#-#  rcmfoc.pot (Responsive Clean Minimal Flat One Column 1.0)  #-#-#-#-#
 #. Description of the plugin/theme
 msgid "Responsive Clean Minimal Flat One Column"
 msgstr ""
