@@ -17,8 +17,8 @@
 	endif;
 ?>
 
-	<?php if ( comments_open() || get_comments_number() ) : 
-		comments_template(); 
+	<?php if ( comments_open() || get_comments_number() ) :
+		comments_template();
 	endif; ?>
 	<?php posts_nav_link(); ?>
 </article>
