@@ -15,5 +15,5 @@
 		<h1 class="siteTitle"><a href="<?php echo home_url(); ?>"><?php bloginfo( 'name' ); ?></a></h1>
 		<div class="navToggle" id="navToggle"><span class="line"></span><span class="line"></span><span class="line"></span></div>
 		<div id="siteNav" class="siteNav cf"><?php wp_nav_menu( array('theme_location'  => 'primary' )); ?></div>
-		<img src="<?php header_image(); ?>" alt="<?php bloginfo('name'); ?> " />
+		<img src="<?php header_image(); ?>" alt="<?php bloginfo('name'); ?>" />
 	</header>
